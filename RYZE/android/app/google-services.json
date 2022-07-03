@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94994001081",
+    "project_id": "ryze-2f6be",
+    "storage_bucket": "ryze-2f6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94994001081:android:67dca2d2d61e60c44e7f68",
+        "android_client_info": {
+          "package_name": "com.graduationTeam.ryze.ryze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94994001081-cljga03v4ngmsochj2qjqpb4u2su5bjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graduationTeam.ryze.ryze",
+            "certificate_hash": "8458281002339c565ecb8d1040589347628fa6e2"
+          }
+        },
+        {
+          "client_id": "94994001081-lmt69lhkrdu9qksoksfdemgoramg5cki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTDSkPiWm7fgz4H32yhbhERHjR3HqVas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94994001081-lmt69lhkrdu9qksoksfdemgoramg5cki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
